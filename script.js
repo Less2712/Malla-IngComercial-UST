@@ -145,4 +145,3 @@ function crearMalla() {
 }
 
 window.onload = crearMalla;
-
